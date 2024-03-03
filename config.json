@@ -1,6 +1,6 @@
 {
     "token": "process.env.TOKEN",
-    "color": "green",
+    "color": "#0000FF",
     "prefix": "+",
     "name": "tiyoky",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
